@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/tushar7777/Learning_ExpressJS/issues"
   },
-  "homepage": "https://github.com/tushar7777/Learning_ExpressJS#readme"
+  "homepage": "https://github.com/tushar7777/Learning_ExpressJS#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
