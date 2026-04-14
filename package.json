@@ -1,0 +1,27 @@
+{
+  "name": "learning_mern",
+  "version": "1.0.0",
+  "description": "Learning MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar7777/Learning_ExpressJS.git"
+  },
+  "keywords": [
+    "MERN",
+    "ExpressJS",
+    "MongoDB",
+    "ReactJS",
+    "Javascript",
+    "NodeJS"
+  ],
+  "author": "Tushar Chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar7777/Learning_ExpressJS/issues"
+  },
+  "homepage": "https://github.com/tushar7777/Learning_ExpressJS#readme"
+}
