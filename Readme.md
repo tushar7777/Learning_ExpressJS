@@ -1,6 +1,6 @@
 #Learning ExpressJS
 
-- Following Piyush Garg YT Series
+# Following Piyush Garg YT Series
 # https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo
 
 1. Basic NodeJs - setup and Hello world program
@@ -14,3 +14,22 @@
 9. REST API
 10. Postman
 11. Express Middleware
+
+
+# Api
+- get 
+-- /api/user - all list of user data
+-- /api/user/:id - specific user data
+
+- post 
+-- /api/user - create user data
+
+- patch
+-- /api/user/:id - update user data
+
+- delete
+-- /api/user/:id - update user data
+
+* put vs patch
+Use PUT when updating full data (forms, full object)
+Use PATCH when updating small changes (profile edit, toggle status)
